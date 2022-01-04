@@ -1,0 +1,18 @@
+html{
+	color:white;
+}
+
+body {/*background-image:url("https://scontent.fyzd1-3.fna.fbcdn.net/v/t39.30808-6/241685489_4405314232871239_378139809864942604_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=j8R99CtZ31MAX98kZFK&_nc_ht=scontent.fyzd1-3.fna&oh=ca76d0e6636f95c3ca54b3339ac15ce7&oe=61A8C7B8");*/
+background-image:url("https://pbs.twimg.com/media/EUtuPVSX0AA1at9?format=jpg&name=900x900");
+background-color: DarkOrchid;
+vertical-align: middle;
+ text-align:center;}
+
+h2, h1 {
+  font-family: "Fantasy", Papyrus, serif;
+  /*  color:black;*/
+}
+
+h2,h1,h,p{
+/*background-color:skyblue;*/
+}
